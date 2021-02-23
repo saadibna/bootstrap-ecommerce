@@ -1,0 +1,38 @@
+ul, li{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.topbar{
+    background-color: #fff;
+}
+.right, .left, li{
+    display: inline-block;
+    padding: 10px;
+}
+header .right{
+    float: right;
+}
+.caption{
+    bottom: 55% !important;
+}
+.catagory{
+    padding: 10px;
+    
+}
+.text-block {
+    position: relative;
+    text-align: center;
+    opacity: .6;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  
+  .btn{
+      font-size: 15px !important;
+  }
+
+  .product_view .modal-dialog{max-width: 800px; width: 100%;}
+        .pre-cost{text-decoration: line-through; color: #a5a5a5;}
+        .space-ten{padding: 10px 0;}
